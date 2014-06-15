@@ -1,2 +1,2 @@
-FROM centos:lastest
+FROM centos:latest
 RUN yum -y install wget
